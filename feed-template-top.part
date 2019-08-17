@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Stuff in India</title>
+    <link href="main.css" rel="stylesheet" type="text/css">
+		<style>
+			#feed {
+			list-style-type: none;
+			margin: 10px;
+			padding: 0;
+			position: relative;	
+		}	
+		#feed li a {
+			display: block;
+			padding: 0;
+			position: relative;
+			min-height: 280px;
+		}
+		#feed li a:hover {
+			background-color: #f0f0f0;
+			text-decoration: none;
+			color: black;
+		}
+		#thumbnail {
+			position: relative;
+			float: left;
+			height: 260px;
+			padding: 15px;
+		}
+			
+		</style>
+  </head>
+
+<body>
+ <div class="page">
+
+ <div class="header">
+    <h2>Stuff in India</h2>
+    <p id="subtitle"><i>Please contact me with better ideas for a name!</i></p>
+ </div>
+ <div id="nav">
+	<ul>
+		<li><a href='index.html'>Home</a></li>
+		<li><a href='stuff.html'>Stuff</a></li>
+		<li><a href='about.html'>About</a></li>
+	</ul>
+ </div>
+ <div class="row">
+		<div class="leftcolumn">
+
+<ul id="feed">

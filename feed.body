@@ -1,0 +1,47 @@
+<div class="card"> 
+	<a href='ethiopian_dish.html'>
+  <img id='thumbnail' src='images/thumbs/ethiopian_dish.thumb.jpg'>
+	<h2>An Ethiopian Treat</h2>
+	<h5>July 21, 2019</h5>
+  </a>
+</div>
+
+<div class="card"> 
+<a href='haircut.html'>
+	<h2>A Haircut</h2>
+	<h5>July 22, 2019</h5>
+	<img id='thumbnail' src='images/thumbs/before_haircut.thumb.jpg'>
+	</a>
+</div>
+
+<div class="card"> 
+<a href='Delhi_metro.html'>
+	<h2>The gorgeous Delhi metro</h2>
+	<h5>Publicly funded luxery, July 22 2019</h5>
+	<img id='thumbnail' src='images/thumbs/metro_boy.thumb.jpg'>
+	</a>
+</div>
+
+<div class="card"> 
+<a href='first_tour.html'>
+	<h2>A First Tour</h2>
+	<h5>with some lovely hostel-mates, July 21 2019</h5>
+	<img id='thumbnail' src='images/thumbs/walking_through_Lodi_Park.thumb.jpg'>
+	</a>
+</div>
+
+<div class="card"> 
+<a href='mangos.html'>
+	<h2>Unreal Mangos</h2>
+	<h5>July 20 2019</h5>
+	<img id='thumbnail' src='images/thumbs/juicey_mangos.thumb.jpg'>
+	</a>
+</div>
+
+<div class="card"> 
+<a href='Mahipalpur.html'>
+	<h2>Off of the spaceship</h2>
+	<h5>And onto planet India, July 19, 2019</h5>
+	<img id='thumbnail' src='images/thumbs/streets_of_Mahipalpur_smaller.thumb.jpg'>
+	</a>
+</div>
