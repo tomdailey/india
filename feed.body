@@ -1,4 +1,12 @@
 <li>
+  <a href='gorintaku.html'>
+  <img id='thumbnail' src='images/thumbs/gorintaku.thumb.jpg'>
+	<h2>Gorintaku, hand decor</h2>
+	<h5>July 27, 2019</h5>
+  </a>
+</li>
+
+<li>
   <a href='madhira_house.html'>
   <img id='thumbnail' src='images/thumbs/madhira_house.thumb.jpg'>
 	<h2>Resting in Madhira</h2>
