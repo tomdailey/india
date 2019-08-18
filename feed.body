@@ -1,4 +1,12 @@
 <li>
+  <a href='sand_soda.html'>
+  <img id='thumbnail' src='images/thumbs/sand_soda.thumb.jpg'>
+	<h2>Sand in my Soda</h2>
+	<h5>July 22 2019</h5>
+  </a>
+</li>
+
+<li>
 <a href='ethiopian_dish.html'>
   <img id='thumbnail' src='images/thumbs/ethiopian_dish.thumb.jpg'>
 	<h2>An Ethiopian Treat</h2>
