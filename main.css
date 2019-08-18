@@ -1,3 +1,14 @@
+:root {
+	--main-bg: #ffffff;
+	--sec-bg: #6fbf36; 
+	--nav-bg: #1855FE;
+	--nav-fg: #FD6C1F;
+	--body-color: #f1f1f1;
+	--feed-color: #f1f1f1;
+	--feed-hov: #e1e1e1;
+	--theme-white: #fafef7;
+}
+
 body {
 	width: 90%;
 	max-width: 1100px;
@@ -5,63 +16,72 @@ body {
 	margin: auto;
   font-family: Arial;
   padding: 20px;
-  background: #f1f1f1;
+  background: var(--main-bg);
+/* #f1f1f1; */
 }
 
 .header {
-  padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: white;
+  background: var(--sec-bg);
+
+	margin-top: -21px;
+	padding: 10px;
+
+	border-style: solid;
+	border-width: 2px;
+	border-bottom-width: 0px;
 }
 #subtitle {
 	font-size: 14px;
+}
+img {
+	width: 100%;
 }
 
 /* NAVIGATION */
 	#nav {
 		width: 100%;
 		height: 100%;
-		background-color: #f1f1f1;
+		background-color: var(--nav-bg);
 		position: relative;
 	}
-	ul {
+	#nav ul {
 		list-style-type: none;
 		margin: 0;
-		padding: 0;
+		padding-right: -5px;
+		padding: 0px;
 		position: relative;
+		border-style: solid;
+		border-width: 2px;
 	}
-	li {
+	#nav ul li {
 		display: inline-block;
+		border-right-style: solid;
+		border-right-width: 2px;
 	}
-	li a { 
+	#nav ul li a { 
 		display: block;
 		padding: 8px 15px;
 		text-decoration: none;	
-		color: black;
+		color: var(--theme-white);
 		position: relative;
 	}
-	li a:hover { 
-		background-color: #ffffff;
+	#nav ul li a:hover { 
+		background-color: var(--nav-fg);
 		text-decoration: underline;
+		color: var(--theme-white);
 	}
 	#location {
-		background-color: #ffffff;
+		background-color: var(--nav-fg);
 		text-decoration: underline;
 	}
-img {
-	width: 100%;
-}
-#featureimage{
-}
 
 /* Add a card effect for articles */
 .card {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
-}
-#firstcard {
 	margin-top: 0px;
 }
 
@@ -76,15 +96,8 @@ img {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: var(--sec-bg);
   margin-top: 20px;
+	border-style: solid;
+	border-width: 2px;
 }
-/*
-//Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other
-@media screen and (max-width: 800px) {
-  .leftcolumn, .rightcolumn {
-    width: 100%;
-    padding: 0;
-  }
-}
-*/

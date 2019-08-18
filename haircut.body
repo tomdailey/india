@@ -1,7 +1,7 @@
 <div id='firstcard' class="card">
 	<h2>A Haircut</h2>
 	<h5>July 22, 2019</h5>
-	<img id='featureimage' src='images/haircut_before.png'>
+	<img id='featureimage' src='images/before_haircut.jpg'>
 	<p>I had a lot of time to kill at the train station. I thought my train was leaving at 5, but it turned out to be 11! No matter though, because I'll be damned if there's a part of this country without something interesting or crazy or new.</p>
 	<p>The neighborhood near the station was pretty ah...
 	hmm... authentic? Rough-and-tumble? There was a lot going on.<p>

@@ -1,0 +1,30 @@
+#feed {
+	list-style-type: none;
+	padding: 0px;
+	position: relative;	
+}	
+#feed li {
+	margin-bottom: 15px;
+}
+#feed li a {
+	display: block;
+	padding: 15px;
+	height: 200px;
+	text-decoration: none;	
+	color: black;
+	background-color: var(--feed-bg);
+	position: relative;
+	border-style: solid;
+	border-width: 2px;
+}
+#feed li a:hover { 
+	background-color: var(--feed-hov);
+	text-decoration: underline;
+}
+#thumbnail {
+	position: relative;
+	float: left;
+	padding-right: 20px;
+	height: 100%;
+	width: auto;
+}
