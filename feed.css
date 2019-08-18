@@ -23,6 +23,7 @@
 }
 #feed li a:visited { 
 	background-color: #e0e0e0;
+	text-decoration: italic;
 }
 #thumbnail {
 	position: relative;
