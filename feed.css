@@ -21,6 +21,9 @@
 	background-color: var(--feed-hov);
 	text-decoration: underline;
 }
+#feed li a:visited { 
+	background-color: #e0e0e0;
+}
 #thumbnail {
 	position: relative;
 	float: left;
