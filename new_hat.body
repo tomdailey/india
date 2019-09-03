@@ -1,0 +1,9 @@
+<div id='firstcard' class="card">
+	<h2>A New Hat</h2>
+	<h5>August 1, 2019</h5>
+	<img id='featureimage' src='images/new_hat.jpg'>
+	<p>The Kolluru's, in addition to the enormous generosity throughout my stay, also sent me off with an Indian "lungi"-- an old fashioned lower-body garment worn like a bath towel. Uma showed me an alternative way to wear it.</p>
+	<p>I guess workers wear hats like this for sweat absorption, hair containment, and convenient storage of an all-purpose rag. Maybe we can sell the idea to Cabella's or Bass Pro Shop: "A new and revolutionary multi-purpose thread matrix"</p>
+	<p>Getting a little stir crazy in this tiny little hostel room, as you can tell. During the day I've been exploring, but it's really pretty agsausting in the heat and chaos. I'm going to try and find a place to go during the day where I can study Telugu and use my laptop. The hostel has no such facilities, only a bed on which to sleep and eat.<p> 
+<p id="next"><a href="dogs.html">Next Post -></a></p>
+</div>

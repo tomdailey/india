@@ -1,0 +1,9 @@
+<div id='firstcard' class="card">
+	<h2>Coffee Quest I</h2>
+	<h5>August 3, 2019</h5>
+	<img id='featureimage' src='images/dogs.jpg'>
+	<p>The past few days I've been exploring the city. Because I'm not that tough, I basically need to sit down and chill somewhere every few hours. One solution is riding the metro, which is always nice (but rarely includes sitting) another is finding proper coffee shops that allow one to sit-- preferably with AC.</p>
+	<p>You could say I'm on a sort of quest, to find the best coffee shop in Hyderabad.</p>
+	<p>Today, outside of a <i>Cafe Coffee Day</i>, a chain I discovered that <a href='safe-arrival.html'>first evening</a> in the city, I found some cute stray dogs sleeping under a ledge. Right after I took this photo they started barking like mad and scared the crap out of me. Lesson: Instead of caffeine, use adrenaline.</p>
+<p id="next"><a href="hostel_food.html">Next Post -></a></p>
+</div>

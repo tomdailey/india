@@ -1,0 +1,9 @@
+<div id='firstcard' class="card">
+	<h2>Bonalu</h2>
+	<h5>July 30, 2019</h5>
+	<img id='featureimage' src='images/bonalu.jpg'>
+	<p>Today is the Hindu festival Bonalu honoring a Goddess for something, and I stumbled upon a good ol' pre-industrial rave. A couple of guys are playing some suuuper loud drums as they parade down the road. Those kids were doing some serious dancing, and I'm not sure if you can see but the pots the women are holding have small fires lit in them! This party is literally "lit"!</p>
+  <p>Later Uma and I did a little dancing of out own. I think I'm better at Indian dancing than American (which isn't to say "good" at either).</p>
+	<img id='featureimage' src='images/dancing_with_uma.jpg'>
+<p id="next"><a href="new_hat.html">Next Post -></a></p>
+</div>

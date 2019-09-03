@@ -1,0 +1,8 @@
+<div id='firstcard' class="card">
+	<h2>Hyderabad</h2>
+	<h5>July 29, 2019</h5>
+	<img id='featureimage' src='images/hyderabad.jpg'>
+	<p>Up above the fray of the screaming city. Feels good.</p>
+	<p>The city is next level crazy, and pretty dirty, and very loud. It's the five-year-old-me's equivalent of hell on earth. But I managed to find a place above it, and I think it's growing on me.</p>
+<p id="next"><a href="bonalu.html">Next Post -></a></p>
+</div>

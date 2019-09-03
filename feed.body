@@ -1,4 +1,108 @@
 <li>
+  <a href='status.html'>
+  <img id='thumbnail' src='images/thumbs/status.thumb.jpg'>
+	<h2>Status Update</h2>
+	<h5>September 3, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='rooftop_adventure.html'>
+  <img id='thumbnail' src='images/thumbs/rooftop_adventure.thumb.jpg'>
+	<h2>Photo Challenge II</h2>
+	<h5>August 18, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='mcdonalds.html'>
+  <img id='thumbnail' src='images/thumbs/mcdonalds.thumb.jpg'>
+	<h2>Coffee Quest II</h2>
+	<h5>August 15, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='archi-scape.html'>
+  <img id='thumbnail' src='images/thumbs/archi-scape.thumb.jpg'>
+	<h2>Photo Challenge</h2>
+	<h5>August 14, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='back_to_charminar.html'>
+  <img id='thumbnail' src='images/thumbs/back_to_charminar.thumb.jpg'>
+	<h2>Back to Charminar</h2>
+	<h5>August 12, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='reading_room_friends.html'>
+  <img id='thumbnail' src='images/thumbs/reading_room_friends.thumb.jpg'>
+	<h2>Reading Room Friends</h2>
+	<h5>August 10, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='charminar.html'>
+  <img id='thumbnail' src='images/thumbs/charminar.thumb.jpg'>
+	<h2>Charminar</h2>
+	<h5>August 9, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='hostel_food.html'>
+  <img id='thumbnail' src='images/thumbs/hostel_food.thumb.jpg'>
+	<h2>Hostel Food</h2>
+	<h5>August 7, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='dogs.html'>
+  <img id='thumbnail' src='images/thumbs/dogs.thumb.jpg'>
+	<h2>Coffee Quest I</h2>
+	<h5>August 3, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='new_hat.html'>
+  <img id='thumbnail' src='images/thumbs/new_hat.thumb.jpg'>
+	<h2>A New Hat</h2>
+	<h5>August 1, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='bonalu.html'>
+  <img id='thumbnail' src='images/thumbs/bonalu.thumb.jpg'>
+	<h2>Bonalu</h2>
+	<h5>July 30, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='hyderabad.html'>
+  <img id='thumbnail' src='images/thumbs/hyderabad.thumb.jpg'>
+	<h2>Hyderabad</h2>
+	<h5>July 29, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='safe-arrival.html'>
+  <img id='thumbnail' src='images/thumbs/safe-arrival.thumb.jpg'>
+	<h2>A Safe(ish) Arrival</h2>
+	<h5>June 28, 2019</h5>
+  </a>
+</li>
+
+<li>
   <a href='gorintaku.html'>
   <img id='thumbnail' src='images/thumbs/gorintaku.thumb.jpg'>
 	<h2>Gorintaku, hand decor</h2>

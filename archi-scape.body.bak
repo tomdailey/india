@@ -1,0 +1,7 @@
+<div id='firstcard' class="card">
+	<h2>Photo Challenge</h2>
+	<h5>August 14, 2019</h5>
+	<img id='featureimage' src='images/archi-scape.jpg'>
+	<p>My sister challenged me to capture some interesting architecture with a sunset. Challenge accpeted. I believe the building in the background here is the Salar Jung Museum of Islamic Art. No guarentees.</p>
+<p id="next"><a href="mcdonalds.html">Next Post -></a></p>
+</div>
