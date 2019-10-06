@@ -7,6 +7,22 @@
 </li>
 
 <li>
+  <a href='touring_madhira.html'>
+  <img id='thumbnail' src='images/thumbs/sai_baba.thumb.jpg'>
+	<h2>Touring Madhira</h2>
+	<h5>30 September, 2019</h5>
+  </a>
+</li>
+
+<li>
+  <a href='back_to_madhira.html'>
+  <img id='thumbnail' src='images/thumbs/madhira_sunset.thumb.jpg'>
+	<h2>Back to Madhira</h2>
+	<h5>29 August, 2019</h5>
+  </a>
+</li>
+
+<li>
   <a href='rooftop_adventure.html'>
   <img id='thumbnail' src='images/thumbs/rooftop_adventure.thumb.jpg'>
 	<h2>Photo Challenge II</h2>

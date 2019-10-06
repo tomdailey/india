@@ -6,13 +6,13 @@
 	--theme-light-blue: #1855fe;
 	--theme-dark-blue: #0a1639;
 */
-	--main-bg: #fafef7;
+	--main-bg: #e1e9ff;
+	--feed-background: #fafef7;
 	--sec-bg: #6fbf36; 
 	--nav-bg: #1855FE;
 	--nav-fg: #FD6C1F;
 	--feed-color: #f1f1f1;
 	--feed-hov: #e1e1e1;
-
 	--body-color: #fafef7;
 
 }
@@ -89,8 +89,8 @@ img {
 .card {
   background-color: white;
   padding: 20px;
-  margin-top: 20px;
 	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 /* Clear floats after the columns */
@@ -105,7 +105,7 @@ img {
   padding: 20px;
   text-align: center;
   background: var(--sec-bg);
-  margin-top: 20px;
+  margin-top: 0px;
 	border-style: solid;
 	border-width: 2px;
 }

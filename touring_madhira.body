@@ -1,0 +1,12 @@
+<div id='firstcard' class="card">
+	<h2>Touring Madhira</h2>
+	<h5>30 September, 2019</h5>
+	<img id='featureimage' src='images/sai_baba.jpg'>
+	<p>I'm getting to know Madhira well. Today Sumathi took me all around town, we visited a temple for Sai Baba then saw where her cousin and aunt live. It's a given that people live with their children when they retire.</p>
+	<p>The house was the closest analog to Western houses I've seen. There was even a sizable lawn-- and they only cut it once a year. That's why I like this place.</p>
+	<img src='images/sumathi_pinni.jpg'>
+	<p id='caption'>Sumathi's Aunt, and her daughter's sensibly-kept lawn</p>
+	<img src='images/sumathi_anna.jpg'>
+	<p id='caption'>Sumathi's Uncle, and the gorgeous house</p>
+<p id="next"><a href="status.html">Next Post -></a></p>
+</div>
